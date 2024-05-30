@@ -1,0 +1,18 @@
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HMS_Buisness\bin\Debug\HMS_Buisness.dll
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HMS_Buisness\bin\Debug\HMS_Buisness.pdb
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HMS_Buisness\bin\Debug\HMS_DataAccess.dll
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HMS_Buisness\bin\Debug\HMS_DataAccess.pdb
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HMS_Buisness\obj\Debug\HMS_Buisness.csproj.AssemblyReference.cache
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HMS_Buisness\obj\Debug\HMS_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HMS_Buisness\obj\Debug\HMS_Buis.117BCC44.Up2Date
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HMS_Buisness\obj\Debug\HMS_Buisness.dll
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HMS_Buisness\obj\Debug\HMS_Buisness.pdb
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HMS_Buisness\bin\Debug\HMS_Buisness.dll
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HMS_Buisness\bin\Debug\HMS_Buisness.pdb
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HMS_Buisness\bin\Debug\HMS_DataAccess.dll
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HMS_Buisness\bin\Debug\HMS_DataAccess.pdb
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HMS_Buisness\obj\Debug\HMS_Buisness.csproj.AssemblyReference.cache
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HMS_Buisness\obj\Debug\HMS_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HMS_Buisness\obj\Debug\HMS_Buis.117BCC44.Up2Date
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HMS_Buisness\obj\Debug\HMS_Buisness.dll
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HMS_Buisness\obj\Debug\HMS_Buisness.pdb

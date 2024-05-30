@@ -1,0 +1,46 @@
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HospitalManagmentSystem\bin\Debug\HospitalManagmentSystem.exe.config
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HospitalManagmentSystem\bin\Debug\HospitalManagmentSystem.exe
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HospitalManagmentSystem\bin\Debug\HospitalManagmentSystem.pdb
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.frmLogin.resources
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.Properties.Resources.resources
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.csproj.GenerateResource.cache
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.exe
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.pdb
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.frmHome.resources
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.CustomControlTextBox.resources
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.frmDoctor.resources
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HospitalManagmentSystem\bin\Debug\HMS_Buisness.dll
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HospitalManagmentSystem\bin\Debug\HMS_DataAccess.dll
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HospitalManagmentSystem\bin\Debug\HMS_Buisness.pdb
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HospitalManagmentSystem\bin\Debug\HMS_DataAccess.pdb
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.frmDiagnosis.resources
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.frmPatient.resources
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.frmSplash.resources
+C:\Users\I-SEVEN\Desktop\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\Hospital.83008574.Up2Date
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\bin\Debug\HospitalManagmentSystem.exe.config
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\bin\Debug\HospitalManagmentSystem.exe
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\bin\Debug\HospitalManagmentSystem.pdb
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\bin\Debug\HMS_Buisness.dll
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\bin\Debug\HMS_DataAccess.dll
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\bin\Debug\HMS_Buisness.pdb
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\bin\Debug\HMS_DataAccess.pdb
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.CustomControlTextBox.resources
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.frmDiagnosis.resources
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.frmDoctor.resources
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.frmHome.resources
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.frmLogin.resources
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.frmPatient.resources
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.Properties.Resources.resources
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.csproj.GenerateResource.cache
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\Hospital.83008574.Up2Date
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.exe
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.pdb
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.ctrlDiagnosisPatient.resources
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.ctrlAddUpdateDiagnosis.resources
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.frmDiagnosiswithUpdates.frmUpdateDiagnosis.resources
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.frmAddNewDiagnosis.resources
+C:\Users\I-SEVEN\Desktop\projects Course 20\HospitalManagmentSystem\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.frmDiagnosiswithUpdates.frmDeleteDiagnosis.resources

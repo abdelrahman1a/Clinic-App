@@ -25,9 +25,7 @@ The **Clinic App** (Hospital Management System) is a desktop application designe
 ## Features
 
 - 👤 **Patient Management** — Add, update, and track patient records
-- 📅 **Appointment Scheduling** — Manage and organize patient visits
 - 🏥 **Hospital Workflow** — Supports core clinic and hospital operations
-- 🔍 **Patient Search** — Quickly look up patient information
 - 📋 **Medical Records** — Maintain and review patient history
 
 ---
